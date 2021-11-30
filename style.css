@@ -1,13 +1,21 @@
 h1{
-    color:blue;
+    color:rgb(255, 251, 2);
+
+    border: 2px dashed yellow;
 }
 
 h4{
-    color: cornflowerblue;
+    color: rgb(217, 219, 223);
 }
 
 li{
-    color: darkblue;
+    color: rgb(142, 142, 145);
     font-size: 15;
     font-style: italic;
+}
+
+body{
+    background-image: url('https://www.sitedecuriosidades.com/foto/galeria/B3F1F7DC.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
 }
