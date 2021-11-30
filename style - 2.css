@@ -1,0 +1,18 @@
+.Lista-amarela{
+    color: yellow;
+    font-size: 20px;
+}
+.Luas-menores{
+    color: yellow;
+    font-size: 16px;
+}
+#outros{
+     color: rgb(246, 250, 6);
+     font-size: 14px;
+}
+
+body{
+    background-image: url('https://www.sitedecuriosidades.com/foto/galeria/B3F1F7DC.jpg');
+    background-repeat: no-repeat ;
+    background-size: cover;
+}
